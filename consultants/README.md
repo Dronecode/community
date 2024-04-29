@@ -13,13 +13,5 @@ and make sure to follow the Community Code of Conduct.
 
 | Company/Org  | Contact Person/Org  | Expertise  | Contact Info  | Service Region  | Dronecode Member  |
 |---|---|---|---|---|---|
-|   |   |   |   |   |   |
-|   |   |   |   |   |   |
-|   |   |   |   |   |   |
-|   |   |   |   |   |   |
-|   |   |   |   |   |   |
-|   |   |   |   |   |   |
-|   |   |   |   |   |   |
-|   |   |   |   |   |   |
-|   |   |   |   |   |   |
+| Julian Oes Consulting | [Julian Oes](mailto:julian@oes.ch) | MAVSDK, MAVLink, PX4, QGC (integrations, debugging, customizations) | [GitHub](https://github.com/julianoes), [julianoes.com](https://julianoes.com) | Global | N/A |
 
