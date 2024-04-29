@@ -23,7 +23,8 @@ convenience.
 
 ## Adopting Organizations
 
-The following is a list of self indentified organizations.
+The following is a list of self indentified organizations using any of
+the open technologies hosted within the Dronecode Foundation community.
 
 ### How to Contribute
 
@@ -37,9 +38,20 @@ trying to add companies they don't work at.
 3. Make sure you fill out all of the fields
 4. Submit a Pull Request
 
+About the Information (fields)
+* Company Name: We don't need your legal name, altough its fine if you
+  want to use it
+* Brief Description: It's ok if you want to copy your marketing
+  language, but we rather you keep it short.
+* Open Source Projects: Here's an example
+  "PX4/Pixhawk/MAVLink/QGC/MAVSDK" feel free to add/remove from the
+list depending on what your company is doing this can be anything.
+* Dronecode Membership: "yes/no" this is simply to highlight those who
+  are a current member, it's ok if your company hasn't yet sponsored.
 
-| Company Name | Brief Description | Website | Dronecode Membership |
-|---|---|---|---|
-|   |   |   |   |
+
+| Company Name | Brief Description | Open Source Projects | Website | Dronecode Membership |
+|---|---|---|---|---|
+|   |   |   |   |   |
 
 
