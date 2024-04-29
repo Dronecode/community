@@ -52,6 +52,5 @@ list depending on what your company is doing this can be anything.
 
 | Company Name | Brief Description | Open Source Projects | Website | Dronecode Membership |
 |---|---|---|---|---|
-|   |   |   |   |   |
-
+| ARK Electronics| OEM focused on designing and manufacturing drone electronics in the USA. | PX4/Pixhawk/MAVLink/MAVSDK | https://arkelectron.com | Silver |
 
